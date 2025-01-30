@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-30T19:29:36+00:00</lastmod>
+		<lastmod>2025-01-30T22:30:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
 		</image:image>
@@ -30,10 +30,13 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/luxury-porta-potties.webp</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/portapotties.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/weddings/</loc>
-		<lastmod>2025-01-30T19:30:05+00:00</lastmod>
+		<lastmod>2025-01-30T22:36:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
 		</image:image>
@@ -43,49 +46,13 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/luxury-toilets/</loc>
-		<lastmod>2025-01-30T19:29:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/festivals/</loc>
-		<lastmod>2025-01-30T19:29:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/construction/</loc>
-		<lastmod>2025-01-30T19:29:01+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/01/Luxury-Toilet-Trailers.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/events/</loc>
-		<lastmod>2025-01-30T19:28:27+00:00</lastmod>
+		<lastmod>2025-01-30T22:36:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
 		</image:image>
@@ -94,11 +61,46 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/portapotties.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/construction/</loc>
+		<lastmod>2025-01-30T22:35:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/portapotties.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/luxury-toilets/</loc>
+		<lastmod>2025-01-30T22:35:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Luxury-Toilet-Trailers.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/toilet-trailers/</loc>
-		<lastmod>2025-01-30T19:26:03+00:00</lastmod>
+		<lastmod>2025-01-30T22:35:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
 		</image:image>
@@ -107,6 +109,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Luxury-Toilet-Trailers.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/festivals/</loc>
+		<lastmod>2025-01-30T22:35:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/compare-top-porta-potty-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/all-porta-potty-types-available.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/vetted-portable-toilet-suppliers.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/portapotties.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
